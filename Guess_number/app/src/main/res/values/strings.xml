@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Guess_number</string>
+    <string name="range">0~100</string>
+    <string name="guess">GUESS</string>
+    <string name="reset">RESET</string>
+    <string name="tip">Please enter a number</string>
+    <string name="guess_right">You got the answer!!!</string>
+    <string name="guess_again">We guess again!</string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">猜數字</string>
+    <string name="range">0~100</string>
+    <string name="guess">猜數字</string>
+    <string name="reset">重製</string>
+    <string name="tip">請輸入一個數字</string>
+    <string name="guess_right">你猜對囉!!!</string>
+    <string name="guess_again">我們再猜一次!</string>
+</resources>
