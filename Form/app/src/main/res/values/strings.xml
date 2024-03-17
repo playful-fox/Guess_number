@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="ID">ID:</string>
+    <string name="password">pwd:</string>
+    <string name="name">Name:</string>
+    <string name="birthday">birthday:</string>
+    <string name="gender">Gender:</string>
+    <string name="radBthMale">男</string>
+    <string name="radBthFemale">女</string>
+    <string name="vehicle">Vehicle:</string>
+    <string name="checkBox_car">汽車</string>
+    <string name="checkBox_bike">腳踏車</string>
+    <string name="checkBox_motorcycle">摩托車</string>
+    <string name="bth_send">SEND</string>
+</resources>
