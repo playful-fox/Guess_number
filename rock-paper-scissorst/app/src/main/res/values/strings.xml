@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">rock–paper–scissors</string>
+    <string name="Rock_Paper_Scissors">Rock Paper Scissors</string>
+    <string name="computerView">Computer</string>
+    <string name="playerView">Player</string>
+    <string name="IDView">IDView</string>
+    <string name="scissors">Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="play_choose_a_button">Play choose a button</string>
+    <string name="wait_player">Wait Player</string>
+    <string name="win">You Win!!!!!!</string>
+    <string name="lose">You Lose!!!!!!</string>
+    <string name="draw">Draw!!!!!!</string>
+</resources>
