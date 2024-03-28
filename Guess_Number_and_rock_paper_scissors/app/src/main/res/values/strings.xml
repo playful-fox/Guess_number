@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Guess_Number_and_rock_paper_scissors</string>
+    <string name="Button">Button</string>
+    <string name="GuessNumber">Guess Number</string>
+    <string name="RockPaperScissors">Rock Paper Scissors</string>
+    <string name="range">0~100</string>
+    <string name="guess">GUESS</string>
+    <string name="reset">RESET</string>
+    <string name="tip">Please enter a number</string>
+    <string name="guess_right">You got the answer!!!</string>
+    <string name="guess_again">We guess again!</string>
+    <string name="back">Back</string>
+    <string name="Rock_Paper_Scissors">Rock Paper Scissors</string>
+    <string name="computerView">Computer</string>
+    <string name="playerView">Player</string>
+    <string name="IDView">IDView</string>
+    <string name="scissors">Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="play_choose_a_button">Play choose a button</string>
+    <string name="wait_player">Wait Player</string>
+    <string name="win">You Win!!!!!!</string>
+    <string name="lose">You Lose!!!!!!</string>
+    <string name="draw">Draw!!!!!!</string>
+</resources>
