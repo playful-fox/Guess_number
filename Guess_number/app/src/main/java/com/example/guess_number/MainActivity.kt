@@ -11,15 +11,14 @@ import kotlin.random.Random
 class MainActivity : AppCompatActivity() {
     private lateinit var handler: Handler
     private lateinit var binding: ActivityMainBinding
+    private val guess = Guess()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         handler = Handler(Looper.getMainLooper())
 
-        val guess = Guess()
         guess.setSecret()
-
         binding.guess.setOnClickListener{
             binding.textView.text = binding.editText.text
             guess.setValid_num(binding.editText.text.toString().toInt())
